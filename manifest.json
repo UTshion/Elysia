@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "Elysia",
+	"name": "Elysia",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
+	"description": "Easily add words and its meanings, example_sentences and example_sentences(translated) to your Obsidian notes.",
+	"author": "UTshion",
+	"authorUrl": "https://github.com/UTshion",
 	"fundingUrl": "https://obsidian.md/pricing",
 	"isDesktopOnly": false
 }
